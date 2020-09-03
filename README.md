@@ -1,14 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 #Command Line for adding the project in GitHub
-$git init
-$git add .
-$git commit -m "My First Project"
-$git status
-$git remote add origin URL (copy from th repository)
-$git push origin master
- Enter Username:Mehwish309
- Password: *********
- $git push -f origin master
+#$git init
+#$git add .
+#$git commit -m "My First Project"
+#$git status
+#$git remote add origin URL (copy from th repository)
+#$git push origin master
+ #Enter Username:Mehwish309
+ #Password: *********
+ #$git push -f origin master
 
 
 
